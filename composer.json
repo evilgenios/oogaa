@@ -1,0 +1,8 @@
+{
+    "name": "root/1913115-coinbase.com",
+    "type": "project",
+    "require": {
+        "longman/telegram-bot": "^0.82.0",
+        "furqansiddiqui/bip39-mnemonic-php": "^0.1.7"
+    }
+}
